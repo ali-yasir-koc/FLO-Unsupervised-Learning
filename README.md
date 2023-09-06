@@ -1,4 +1,4 @@
-# FLO-Unsupervised-Learning
+# DataScience_FLO-Unsupervised-Learning
 ## Description
 FLO wants to segment its customers and determine marketing strategies according to these segments. For this purpose, customers' behaviors will be defined and groups will be formed according to the clusters in these behaviors.
 In this project, K-means clustering and hierarchical clustering were used for segmentation.
